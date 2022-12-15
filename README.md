@@ -1,3 +1,12 @@
+![1screencapture-register](https://user-images.githubusercontent.com/100482638/207934930-c6f0995c-4f40-4124-ac6d-e5c4466fee59.png)
+![2screencapture-37](https://user-images.githubusercontent.com/100482638/207934933-6948785a-a82e-4419-b240-d04476dee2ea.png)
+![3screencapture-forgot-password](https://user-images.githubusercontent.com/100482638/207934938-866b09c0-1d08-4913-8be3-d2a980e69dcf.png)
+![4scrdashboard](https://user-images.githubusercontent.com/100482638/207934940-653200d7-0f44-451a-a139-7452de93c5c1.png)
+![5screencapture-admin-users](https://user-images.githubusercontent.com/100482638/207934943-b4ff7cd7-4a57-4650-8363-3d47532b0263.png)
+![6screencapture-admin-user-new](https://user-images.githubusercontent.com/100482638/207934944-ca31e30d-45ef-4870-8ae9-22e1bd1a9756.png)
+![screencapture-admin-user-edit](https://user-images.githubusercontent.com/100482638/207934949-a030ad45-ade0-4b0e-abba-91e90a9759b2.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
